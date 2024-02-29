@@ -1,0 +1,21 @@
+.odd-numbered 
+{
+    background-color: #FFA7A7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-fontsize
+{
+    font-size: 24px;
+}
+
+#second-element
+{
+    color: #0000ff;
+    font-size: 36px;
+}
+#forth-element
+{
+    background-color: #80FF80;
+    font-weight: bold;
+}
